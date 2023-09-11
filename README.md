@@ -1,8 +1,7 @@
 # Road Alert 
 
-![Road Alert](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvector-premium%2Ficono-alerta-roja-luz-intermitente-simbolo-sirena-senal-alarma_24498629.htm&psig=AOvVaw2WtFH2pwtKKLqTD5_KJsUF&ust=1694557097373000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNj1zqDLo4EDFQAAAAAdAAAAABAE)
 
-TravelTrack Mexico is an Electron app designed to enhance your travel experience by providing real-time highway status notifications and route tracking. We prioritize user security and safety by sending alerts in case a journey is left incomplete.
+Road Alert Mexico is an Electron app designed to enhance your travel experience by providing real-time highway status notifications and route tracking. We prioritize user security and safety by sending alerts in case a journey is left incomplete.
 
 ## Features
 
