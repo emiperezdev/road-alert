@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>HelloCordova</name>
-    <description>Sample Apache Cordova App</description>
-    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
-        Apache Cordova Team
+    <name>Road Alert</name>
+    <description>A Cordova app for tracking your travels and getting notifications about the status of the highways in México. We try to prioritize the security of our users by sending notifications in case they didn't complete their route.</description>
+    <author email="" href="https://github.com/alonsogonzalezleal/road-alert">
+        Apache Cordova Team, Carlos Alvarez Rangel, Emiliano Perez Murillo, Diego Romero Ulloa, Alonso González-Leal
     </author>
     <content src="index.html" />
     <allow-intent href="http://*/*" />

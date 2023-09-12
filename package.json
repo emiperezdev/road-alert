@@ -2,7 +2,7 @@
   "name": "com.road-alert.app",
   "displayName": "Road Alert",
   "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "A Cordova app for tracking your travels and getting notifications about the status of the highways in México. We try to prioritize the security of our users by sending notifications in case they didn't complete their route.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
