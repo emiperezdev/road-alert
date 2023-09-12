@@ -1,6 +1,6 @@
 # Road Alert
 
-Road Alert Mexico is an Electron app designed to enhance your travel experience by providing real-time highway status notifications and route tracking. We prioritize user security and safety by sending alerts in case a journey is left incomplete.
+Road Alert Mexico is a Cordova app designed to enhance your travel experience by providing real-time highway status notifications and route tracking. We prioritize user security and safety by sending alerts in case a journey is left incomplete.
 
 ## Features
 
